@@ -1,0 +1,59 @@
+# Django project
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+*.log
+*.pot
+*.po
+*.mo
+*.svg
+
+# Package build and distribution
+build/
+dist/
+*.egg-info/
+
+# IDE specific
+.vscode/
+.idea/
+
+# Compiled files
+*.pyc
+
+# Local development settings
+local_settings.py
+
+# Compiled Python modules
+__pycache__/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore virtual environment
+venv/
+env/
+ENV/
+virtualenv/
+
+# Ignore migration files
+/migrations/*.py
+/migrations/*.pyc
+__pycache__/
+
+# Ignore database files
+*.sqlite3
+*.db
+
+# Ignore coverage data
+.coverage
+
+# Ignore testing logs
+test-output/
+pytest-report/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.pypirc
