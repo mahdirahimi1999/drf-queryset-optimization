@@ -57,3 +57,4 @@ pytest-report/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 .pypirc
+.DS_Store

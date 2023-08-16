@@ -8,7 +8,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="drf-queryset-optimization",  # Change the package name here
-    version="0.1.0",
+    version="0.1.1",
     author="Mahdi Rahimi",
     author_email="mahdi.rahimi95@gmail.com",
     description="A package for optimizing querysets in Django REST Framework views and viewsets",
